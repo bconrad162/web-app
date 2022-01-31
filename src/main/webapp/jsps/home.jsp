@@ -14,6 +14,7 @@
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
+	<h1> JESUS IS LORD</h1>
 	<h1><h3> Server Side IP Address </h3><br>
 
 <% 
